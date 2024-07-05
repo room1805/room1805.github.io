@@ -36,6 +36,7 @@ AI 모델은 날이 갈수록 더 많은 사회적인 영향력을 보여주고 
 <ul>
   <li> 📜 <strong>Room 1805</strong>: <text class="text"> <a href="/room1805"> Incomplete Prompt Jailbreak </a> </text> </li>
   <li> 📜 <strong>Room 1806</strong>: <text class="text"> <a href="/room1806"> Representation Interpretation of Refusal Mechanism In Large Language Models </a>  </text>  </li>
+  <li> 📜 <strong>Room 1807</strong>: <text class="text"> <a href="/room1807"> Cluster Specific Refusal Directions In Large Language Models</a>  </text>  </li>
   
 </ul>
 
