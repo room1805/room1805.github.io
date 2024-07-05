@@ -31,8 +31,18 @@ AI 모델은 날이 갈수록 더 많은 사회적인 영향력을 보여주고 
 <hr>
 
 
+## Safety 
+
 <ul>
   <li> 📜 <strong>Room 1805</strong>: <text class="text"> <a href="/room1805"> Incomplete Prompt Jailbreak </a> </text> </li>
   <li> 📜 <strong>Room 1806</strong>: <text class="text"> <a href="/room1806"> Representation Interpretation of Refusal Mechanism In Large Language Models </a>  </text>  </li>
+  
 </ul>
+
+
+## Other LLMs
+
+<li> 📜 <strong>ICPRAI 2024 </strong>: <text class="text"> <a href="https://fxnnxc.github.io/main_papers/2024_icprai_source_identification/"> Identifying the source of documents in LLMs  </a>  </text>  </li>
+<li> 📜 <strong>IJCAI 2024 </strong>: <text class="text"> <a href="https://fxnnxc.github.io/main_papers/2024_guidace_loss_for_documents/"> Memorizing Documents with Guidance in LLMs  </a>  </text>  </li>
+    
 
