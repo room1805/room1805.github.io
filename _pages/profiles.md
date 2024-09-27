@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: 🤗 members
+title:  members ✌️
 description: Contributors To Projects
 nav: true
 nav_order: 2
