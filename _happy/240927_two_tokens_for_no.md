@@ -6,7 +6,7 @@ img: assets/img/etc/no.jpg
 importance: 1
 category: LLM
 related_publications: false
-date: 2015-03-15 16:40:16
+date: 2024-09-27 16:40:16
 giscus_comments: true
 ---
 
@@ -18,7 +18,7 @@ giscus_comments: true
         {% include figure.liquid loading="eager" path="assets/img/etc/no.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
+<div class="caption">  
     "No"를 위한 토큰은 한 개가 아닐지 몰라. 
 </div>
 

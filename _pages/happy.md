@@ -5,7 +5,7 @@ permalink: /happy/
 description: A growing collection of our cool discoveries.
 nav: true
 nav_order: 3
-display_categories: [LLM, work, fun]
+display_categories: [LLM, Tips , work, fun]
 horizontal: false
 ---
 
