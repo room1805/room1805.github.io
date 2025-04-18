@@ -1,6 +1,6 @@
 ---
 layout: about
-title: project
+title: ''
 permalink: /
 subtitle: Trustworthy AI project 
 

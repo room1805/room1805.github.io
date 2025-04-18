@@ -181,9 +181,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  happy:
-    output: true
-    permalink: /happy/:path/
 
 
 announcements:

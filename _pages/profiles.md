@@ -14,18 +14,4 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Room 1805 Members</p>
-  - align: right
-    image: paper_room1805.jpg
-    content: short_room1805.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: right
-    image: paper_room1806.jpg
-    content: short_room1806.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Why refusals are different? Are internals different? Let's verify them!</p>
 ---
